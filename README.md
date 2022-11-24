@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="100" src="https://user-images.githubusercontent.com/102568331/203838258-50ac6eb0-2b5b-41cb-9094-93dad87ab6e2.png"/>
+  <img height="100" src="https://images.unsplash.com/photo-1529854140025-25995121f16f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2340&q=80"/>
   <h6>Creator Economy</h6>
   <h1><b>COMMUNITY</b></h1>
   <p>Learn, create, serve, market and sell. Peer to peer.</p>
